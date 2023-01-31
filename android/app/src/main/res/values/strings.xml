@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cs-salesforce-chat</string>
+    <string name="title_activity_main">cs-salesforce-chat</string>
+    <string name="package_name">cs.salesforce.chat</string>
+    <string name="custom_url_scheme">cs.salesforce.chat</string>
+</resources>
