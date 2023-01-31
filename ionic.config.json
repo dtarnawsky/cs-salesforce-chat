@@ -1,0 +1,7 @@
+{
+  "name": "cs-salesforce-chat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
